@@ -1,0 +1,15 @@
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\bin\Debug\net7.0\TylorSeries.exe
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\bin\Debug\net7.0\TylorSeries.deps.json
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\bin\Debug\net7.0\TylorSeries.runtimeconfig.json
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\bin\Debug\net7.0\TylorSeries.dll
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\bin\Debug\net7.0\TylorSeries.pdb
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\obj\Debug\net7.0\TylorSeries.csproj.AssemblyReference.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\obj\Debug\net7.0\TylorSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\obj\Debug\net7.0\TylorSeries.AssemblyInfoInputs.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\obj\Debug\net7.0\TylorSeries.AssemblyInfo.cs
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\obj\Debug\net7.0\TylorSeries.csproj.CoreCompileInputs.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\obj\Debug\net7.0\TylorSeries.dll
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\obj\Debug\net7.0\refint\TylorSeries.dll
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\obj\Debug\net7.0\TylorSeries.pdb
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\obj\Debug\net7.0\TylorSeries.genruntimeconfig.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\TylorSeries\obj\Debug\net7.0\ref\TylorSeries.dll

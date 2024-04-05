@@ -1,0 +1,15 @@
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\bin\Debug\net7.0\DateTimeAssign.exe
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\bin\Debug\net7.0\DateTimeAssign.deps.json
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\bin\Debug\net7.0\DateTimeAssign.runtimeconfig.json
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\bin\Debug\net7.0\DateTimeAssign.dll
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\bin\Debug\net7.0\DateTimeAssign.pdb
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\obj\Debug\net7.0\DateTimeAssign.csproj.AssemblyReference.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\obj\Debug\net7.0\DateTimeAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\obj\Debug\net7.0\DateTimeAssign.AssemblyInfoInputs.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\obj\Debug\net7.0\DateTimeAssign.AssemblyInfo.cs
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\obj\Debug\net7.0\DateTimeAssign.csproj.CoreCompileInputs.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\obj\Debug\net7.0\DateTimeAssign.dll
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\obj\Debug\net7.0\refint\DateTimeAssign.dll
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\obj\Debug\net7.0\DateTimeAssign.pdb
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\obj\Debug\net7.0\DateTimeAssign.genruntimeconfig.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\Assignment\DateTimeAssign\obj\Debug\net7.0\ref\DateTimeAssign.dll
