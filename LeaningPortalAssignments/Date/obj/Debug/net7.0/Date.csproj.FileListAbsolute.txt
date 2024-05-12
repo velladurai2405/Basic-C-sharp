@@ -1,0 +1,15 @@
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\bin\Debug\net7.0\Date.exe
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\bin\Debug\net7.0\Date.deps.json
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\bin\Debug\net7.0\Date.runtimeconfig.json
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\bin\Debug\net7.0\Date.dll
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\bin\Debug\net7.0\Date.pdb
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\obj\Debug\net7.0\Date.csproj.AssemblyReference.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\obj\Debug\net7.0\Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\obj\Debug\net7.0\Date.AssemblyInfoInputs.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\obj\Debug\net7.0\Date.AssemblyInfo.cs
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\obj\Debug\net7.0\Date.csproj.CoreCompileInputs.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\obj\Debug\net7.0\Date.dll
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\obj\Debug\net7.0\refint\Date.dll
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\obj\Debug\net7.0\Date.pdb
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\obj\Debug\net7.0\Date.genruntimeconfig.cache
+C:\Users\VelladuraiJeyaraj\OneDrive - Syncfusion\Desktop\C#Assignments\Date\obj\Debug\net7.0\ref\Date.dll
